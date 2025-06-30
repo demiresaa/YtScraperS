@@ -49,6 +49,12 @@ YtScraperS, markaların YouTube yorumlarından stratejik içgörüler elde etmes
 
 ---
 
+## İletişim
+**Ürün Sahibi: Süleyman Kürşat DEMİR
+**E-posta: demiresa38@gmail.com
+**Telefon: 0506 036 5724
+**LinkedIn: Süleyman Kürşat DEMİR
+
 ## Kurulum ve Kullanım
 
 ```bash
@@ -63,11 +69,3 @@ pip install -r requirements.txt
 
 # 4. Uygulamayı çalıştırın
 python main.py
-
-
-İletişim
-Ürün Sahibi: Süleyman Kürşat DEMİR
-E-posta: demiresa38@gmail.com
-Telefon: 0506 036 5724
-LinkedIn: Süleyman Kürşat DEMİR
-
