@@ -50,10 +50,10 @@ YtScraperS, markaların YouTube yorumlarından stratejik içgörüler elde etmes
 ---
 
 ## İletişim
-**Ürün Sahibi: Süleyman Kürşat DEMİR
-**E-posta: demiresa38@gmail.com
-**Telefon: 0506 036 5724
-**LinkedIn: Süleyman Kürşat DEMİR
+-Ürün Sahibi: Süleyman Kürşat DEMİR
+-E-posta: demiresa38@gmail.com
+-Telefon: 0506 036 5724
+-LinkedIn: Süleyman Kürşat DEMİR
 
 ## Kurulum ve Kullanım
 
