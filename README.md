@@ -15,7 +15,6 @@
 [cite_start]Kullanıcılar, belirledikleri ürün veya hizmetle ilgili anahtar kelimeleri içeren YouTube URL'lerini otomatik olarak tespit edebilirler[cite: 22]. [cite_start]Bu URL'ler anında CSV formatında kaydedilir[cite: 23]. [cite_start]Belirlenen bu video URL'leri üzerinden, her bir videoya ait yorum metinleri, yorum tarihleri, kullanıcı adları ve diğer ilgili meta veriler, gelişmiş web scraping teknolojimizle saniyeler içinde toplanır ve analiz için hazır hale getirilir[cite: 24].
 
 ![Uygulamanın arayüzü ve veri toplama adımı](images/image-2.png)
-[cite_start]*Resim 1: Uygulamanın arayüzü ve veri toplama adımı [cite: 25]*
 
 
 ### 2. Duygu Analizi Modülü
@@ -23,30 +22,23 @@
 [cite_start]BERT tabanlı gelişmiş NLP modeliyle her yorum -1 (çok negatif) ile +1 (çok pozitif) arasında puanlanır ve "Pozitif" veya "Negatif" olarak etiketlenir[cite: 27]. [cite_start]Sonuçlar, interaktif pasta ve zaman çizelgesi grafikleriyle duygu dağılımı ve değişimi şeklinde görselleştirilir[cite: 27].
 
 ![Yorumların duygu dağılımını gösteren pasta grafiği](image-3.png)
-[cite_start]*Resim 3: Yorumların duygu dağılımını gösteren pasta grafiği [cite: 28]*
 
 ![Yorumların duygu skorlarının zaman grafiği](image-4.png)
-[cite_start]*Resim 4: Yorumların duygu skorlarının zaman grafiği [cite: 29]*
 
 ### 3. Akıllı Yorum Kategorizasyon Modülü
 
-[cite_start]Yorumlarınızı istediğiniz alanlardaki kategorilere, gelişmiş Büyük Dil Modelleri (LLM) ile otomatik ve akıllı şekilde sınıflandırıyoruz[cite: 30]. [cite_start]Böylece müşteri geri bildirimlerine odaklanarak kaynaklarınızı daha verimli yönetebilirsiniz[cite: 30].
 
 ![Kullanıcıların kategorilerini girdiği alan](image-5.png)
-[cite_start]*Resim 5: Kullanıcıların kategorilerini girdiği alan [cite: 31]*
 
 ![Kategorileme sonuçlarının tabloda gösterimi](image-6.png)
-[cite_start]*Resim 6: Kategorileme sonuçlarının tabloda gösterimi [cite: 32]*
 
 ![Kategori bazında zaman grafikleri](image-7.png)
-[cite_start]*Resim 7: Kategori bazında zaman grafikleri [cite: 33]*
 
 ### 4. Akıllı Raporlama Modülü
 
 [cite_start]YtScraperS'in tüm bu güçlü analizleri, markanızın stratejik kararlar almasını sağlayacak anlaşılır ve profesyonel raporlar halinde sunulur[cite: 34].
 
 ![Analiz raporu dosyası](image-1.png)
-[cite_start]*Resim 8: Analiz raporu dosyası [cite: 34]*
 
 ## Uygulama Geliştirme Metodu ve Çalışma Prensibi
 
